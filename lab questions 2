@@ -1,0 +1,66 @@
+'''x=int(input("enter any number "))
+y=int(input("enter any number "))
+if(x>y):
+print("%d is greater"%x)
+if(x<y):
+print("%d is greater"%y)'''
+
+'''x=int(input("enter any number "))
+if(x%2==0)
+print("even")
+else:
+print("odd")'''
+
+'''x=int(input("enter any number "))
+if(1&x==1):
+print("odd")
+else:
+print("even")'''
+
+'''x=int(input("enter any number "))
+y=int(input("enter any number "))
+y=int(input("enter any number "))
+a1=max(x,y,z)
+a3=min(x.y.z)
+a2=(x+y+z)-a1-a3
+print("max is %d and min is %d and middle is %d"%(a1,a3,a2))'''
+
+'''x=int(input("enter any number "))
+y=int(input("enter any number "))
+y=int(input("enter any number "))
+if((x+y>z)or (y+z>x)or (x+z>y)):
+print("triangle can be formed ")
+
+else:
+print("triangle can not be formed ")'''
+
+'''x=int(input("enter any angle "))
+y=int(input("enter any angle "))
+y=int(input("enter any angle "))
+if(x+y+z==180):
+print("yes it can be formed ")
+else:
+print("no it can not be formed")'''
+
+'''x=float(input("enter cost price "))
+y=float(input("enter selling price "))
+if(y>x):
+print("profit is %f and profit percent is %f %%"%((y-x),((y-x)/x)*100))
+if(y<x):
+print("loss is %f and loss percent is %f %%"%((x-y),((y-x)/x)*100))
+if(x==y):
+print("no loss and no profit")'''
+
+'''x=int(input("enter any number "))
+if(x%7==0 and x%6==1 and x%5==1 and x%4==1 and x%3==1):
+print("yes it can be a possible number")
+else:
+print("no it can not be a possible number");'''
+
+'''x=float(input("enter basic salary "))
+if(x<10000):
+print("total salary is %f "%(0.2*x+0.8*x+x))
+if(x>=10000 and x<=20000 ):
+print("total salary is %f "%(0.25*x+0.85*x+x))
+if(x>20000):
+print("total salary is %f "%(0.3*x+0.95*x+x))'''
